@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I’m Rohan 👋
 
-<!--
-**rohdahal/rohdahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend-first full stack engineer focused on building systems that are reliable, maintainable, and practical to run in production.
 
-Here are some ideas to get you started:
+Most of my day-to-day work lives in private enterprise repositories.  
+The projects here reflect the kinds of problems I enjoy working on outside of work — workflow orchestration, backend reliability, and operational tooling — using the same patterns and standards I apply professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core focus**
+- Java & Spring Boot microservices
+- Workflow orchestration and backend systems
+- Angular-based operational interfaces
+- Cloud-hosted, production-oriented applications
+
+I value clear design, boring reliability, and software that behaves well under real-world constraints.
